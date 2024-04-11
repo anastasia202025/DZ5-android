@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App.homework05</string>
+    <string name="title_home">Quiz Quiz</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="image_welcome">Hello Hello</string>
+    <string name="button_welcome">Начать Квиз!</string>
+</resources>
